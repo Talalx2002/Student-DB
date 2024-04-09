@@ -1,0 +1,84 @@
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\studentInfo DB.exe
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\studentInfo DB.deps.json
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\studentInfo DB.runtimeconfig.json
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\studentInfo DB.dll
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\studentInfo DB.pdb
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\obj\Debug\net6.0-windows\studentInfo DB.csproj.AssemblyReference.cache
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\obj\Debug\net6.0-windows\studentInfo_DB.Form1.resources
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\obj\Debug\net6.0-windows\studentInfo DB.csproj.GenerateResource.cache
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\obj\Debug\net6.0-windows\studentInfo DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\obj\Debug\net6.0-windows\studentInfo DB.AssemblyInfoInputs.cache
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\obj\Debug\net6.0-windows\studentInfo DB.AssemblyInfo.cs
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\obj\Debug\net6.0-windows\studentInfo DB.csproj.CoreCompileInputs.cache
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\obj\Debug\net6.0-windows\studentInfo DB.dll
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\obj\Debug\net6.0-windows\refint\studentInfo DB.dll
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\obj\Debug\net6.0-windows\studentInfo DB.pdb
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\obj\Debug\net6.0-windows\studentInfo DB.genruntimeconfig.cache
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\obj\Debug\net6.0-windows\ref\studentInfo DB.dll
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\University\Visual Programming\studentInfo DB\studentInfo DB\obj\Debug\net6.0-windows\studentInfo DB.csproj.CopyComplete
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\studentInfo DB.exe
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\studentInfo DB.deps.json
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\studentInfo DB.runtimeconfig.json
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\studentInfo DB.dll
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\studentInfo DB.pdb
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\Azure.Core.dll
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\Azure.Identity.dll
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\System.Memory.Data.dll
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\obj\Debug\net6.0-windows\studentInfo DB.csproj.AssemblyReference.cache
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\obj\Debug\net6.0-windows\studentInfo_DB.Form1.resources
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\obj\Debug\net6.0-windows\studentInfo DB.csproj.GenerateResource.cache
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\obj\Debug\net6.0-windows\studentInfo DB.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\obj\Debug\net6.0-windows\studentInfo DB.AssemblyInfoInputs.cache
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\obj\Debug\net6.0-windows\studentInfo DB.AssemblyInfo.cs
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\obj\Debug\net6.0-windows\studentInfo DB.csproj.CoreCompileInputs.cache
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\obj\Debug\net6.0-windows\studentInfo DB.csproj.CopyComplete
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\obj\Debug\net6.0-windows\studentInfo DB.dll
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\obj\Debug\net6.0-windows\refint\studentInfo DB.dll
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\obj\Debug\net6.0-windows\studentInfo DB.pdb
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\obj\Debug\net6.0-windows\studentInfo DB.genruntimeconfig.cache
+F:\Code\C-Sharp\studentInfo DB\studentInfo DB\obj\Debug\net6.0-windows\ref\studentInfo DB.dll
